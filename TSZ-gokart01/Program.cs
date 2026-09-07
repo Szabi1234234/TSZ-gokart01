@@ -12,6 +12,8 @@ namespace TSZ_gokart01
         {
             //likhe
             Console.WriteLine("asd");
+            Console.WriteLine("lik");
+            Console.WriteLine("asa");
         }
     }
 }
