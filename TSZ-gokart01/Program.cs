@@ -10,6 +10,8 @@ namespace TSZ_gokart01
     {
         static void Main(string[] args)
         {
+            //likhe
+            Console.WriteLine("asd");
         }
     }
 }
